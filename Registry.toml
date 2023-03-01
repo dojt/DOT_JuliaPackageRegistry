@@ -1,0 +1,6 @@
+name = "DOT_JuliaPackageRegistry"
+uuid = "4b1ffe37-c0a5-4beb-b68e-7eabb6c86027"
+repo = "https://github.com/dojt/DOT_JuliaPackageRegistry.git"
+description = "DOT's Julia Package Registry"
+
+[packages]
