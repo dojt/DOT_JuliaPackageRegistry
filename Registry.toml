@@ -4,3 +4,4 @@ repo = "https://github.com/dojt/DOT_JuliaPackageRegistry.git"
 description = "DOT's Julia Package Registry"
 
 [packages]
+3e56a413-cb61-4004-9b36-fbc90ffc4c6e = { name = "DOT_NiceMath", path = "D/DOT_NiceMath" }
