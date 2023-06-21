@@ -6,3 +6,4 @@ description = "DOT's Julia Package Registry"
 [packages]
 16c21e78-c204-4711-8e6d-a01104899bbe = { name = "DOT_RydSim", path = "D/DOT_RydSim" }
 3e56a413-cb61-4004-9b36-fbc90ffc4c6e = { name = "DOT_NiceMath", path = "D/DOT_NiceMath" }
+d044b169-1fcc-453b-a360-a6205f463680 = { name = "DOT_RydSimDeriv", path = "D/DOT_RydSimDeriv" }
